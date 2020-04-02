@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#navbar {
+	border: medium;
+}
+
+#outer-container {
+	padding-top: 100px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+#last_gif {
+	width: 70%;
+}
+
+.col-12 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
